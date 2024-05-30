@@ -1,3 +1,3 @@
 # OneChain
-This is a Web 3.0 Blockchain App./br
+This is a Web 3.0 Blockchain App.
 Contributer -Uday Gorai
